@@ -1,14 +1,13 @@
 # Django guide for implementing real time application
 
-This is the example project for implementing Tic Tac Toe game. 
-
+This is python django and socket programming based backend
 Guide link: <link here>
 
 ### Installation guide
 - Clone repository
 
 	`
-	git clone https://github.com/krazygaurav/Django-channels-Tic-Tac-Toe
+	git clone https://github.com/ashwani280496/Socket-Messaging-Backend.git
 	`
 
 - cd to repository.
