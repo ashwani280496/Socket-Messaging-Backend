@@ -2,9 +2,6 @@
 
 This is the example project for implementing Tic Tac Toe game. 
 
-![Demo GIF](./demo_ttt.gif)
-
-
 Guide link: <link here>
 
 ### Installation guide
